@@ -1,0 +1,11 @@
+C:\Users\1\source\repos\Steam Manager\Steam Manager\obj\Debug\Steam Manager.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Steam Manager\Steam Manager\obj\Debug\Steam_Manager.Form1.resources
+C:\Users\1\source\repos\Steam Manager\Steam Manager\obj\Debug\Steam_Manager.Properties.Resources.resources
+C:\Users\1\source\repos\Steam Manager\Steam Manager\obj\Debug\Steam Manager.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Steam Manager\Steam Manager\obj\Debug\Steam Manager.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Steam Manager\Steam Manager\bin\Debug\Steam Manager.exe.config
+C:\Users\1\source\repos\Steam Manager\Steam Manager\bin\Debug\Steam Manager.exe
+C:\Users\1\source\repos\Steam Manager\Steam Manager\bin\Debug\Steam Manager.pdb
+C:\Users\1\source\repos\Steam Manager\Steam Manager\obj\Debug\Steam Manager.exe
+C:\Users\1\source\repos\Steam Manager\Steam Manager\obj\Debug\Steam Manager.pdb
+C:\Users\1\source\repos\Steam Manager\Steam Manager\obj\Debug\Steam_Manager.UserControl1.resources
